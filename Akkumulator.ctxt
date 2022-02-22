@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Akkumulator
+comment1.params=
+comment1.target=Akkumulator()
+comment2.params=
+comment2.target=double\ getsumme()
+comment3.params=
+comment3.target=double\ getmaximum()
+comment4.params=
+comment4.target=double\ getminimum()
+comment5.params=
+comment5.target=double\ calcmittel()
+comment6.params=wert
+comment6.target=void\ aktualisiere(double)
+comment7.params=
+comment7.target=double\ calcspannweite()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Waehrungsumrechner
+comment1.params=kurs
+comment1.target=Waehrungsumrechner(double)
+comment2.params=kurs
+comment2.target=void\ setKurs(double)
+comment3.params=geld
+comment3.target=double\ inEuro(double)
+comment4.params=euro
+comment4.target=double\ inFremdwaehrung(double)
+numComments=5
